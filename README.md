@@ -7,15 +7,52 @@ I'm a passionate **Frontend Developer** who loves crafting user-friendly and vis
 - 🧑‍🎓 Completed **Diploma in Computer Science & Technology**
 - 🎓 Currently pursuing **B.Tech in Computer Science and Engineering**
 
+
 ## 🚀 About Me
-- 🌐 I enjoy building responsive and accessible web applications.
-- 🌱 Currently learning: **React.js**, **TypeScript**, and **Next.js**
-- 💡 Passionate about: **Web Design**, **User Experience**, and **Performance Optimization**
-- 🛠️ Technologies I work with:
-  - HTML5, CSS3, JavaScript (ES6+)
-  - Tailwind CSS, Bootstrap
-  - Git & GitHub
-  - VS Code
+
+- 🎓 B.Tech Computer Science & Engineering student (2027 graduate).
+- 💻 Aspiring **MERN Stack Developer** passionate about building responsive and scalable web applications.
+- 🌱 Currently learning and improving my skills in **MERN Stack Development**, with a focus on backend development and React.js.
+- 🛠️ Interested in **Full Stack Development, RESTful APIs, Database Management, and Software Architecture**.
+- 💡 Passionate about problem-solving, clean code, and building real-world projects.
+
+### 🛠️ Technologies & Tools
+
+**Frontend Development**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Tailwind CSS, Bootstrap 5
+
+**Backend Development**
+- Node.js
+- Express.js
+- RESTful API Development
+- MVC Architecture
+- Middleware & Authentication
+
+**Database**
+- MongoDB
+- Mongoose
+- SQL
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Postman
+- MongoDB Compass
+- Docker
+
+### 📚 Currently Learning
+- Advanced MERN Stack Development
+- Backend Architecture & Best Practices
+- React.js & Frontend Integration
+- Data Structures & Algorithms
+- Problem Solving
+
+### 🎯 Career Goal
+
+To become a skilled **Full Stack Developer**, build practical real-world applications, and continuously grow as a software engineer.
+
 ## 🔗 Connect with Me
 - 📧 Email: [somaram8244@gmai.com]
 - 💼 LinkedIn:www.linkedin.com/in/soma-ram-7370762665
